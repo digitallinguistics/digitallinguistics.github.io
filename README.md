@@ -1,5 +1,7 @@
 # DLx Developers
-Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more.
+[Return to the DLx website](https://digitallinguistics.io/)
+
+Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page](https://github.com/digitallinguistics) to view all the DLx repositories.
 
 ## [DLx Data Format][8]
 The official specification for the DLx JSON data format.
