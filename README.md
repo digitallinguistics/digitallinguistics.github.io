@@ -11,7 +11,7 @@ DLx makes the following software packages available. Click the name of the libra
 
 Library       | Description
 ------------- | -----------
-[`dlx‑js`][1] | A JavaScript toolkit for working with linguistic data in DLx format, containing models and views for various kinds of linguistic objects
+[`dlx‑js`][1] | A JavaScript library for working with linguistic data in DLx format, containing models and views for various kinds of linguistic objects
 
 ## API
 A REST API for developers to store, retrieve, and search data in the online DLx database. Register your application [here][10] or at the link below to start interacting with the API.
