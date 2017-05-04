@@ -11,15 +11,11 @@ DLx makes the following software packages available. Click the name of the libra
 
 Library       | Description
 ------------- | -----------
-[`dlx‑js`][1] | A JavaScript library for working with linguistic data in DLx format, containing models and views for various kinds of linguistic objects
+[`dlx‑js`][1] | A JavaScript library for working with linguistic data in DLx format, and other linguistic tasks, containing models and views for various kinds of linguistic objects
+[`dlx-py`][2] | A Python library for working with linguistic data in DLx format, and handling other linguistic tasks
 
 ## API
-A REST API for developers to store, retrieve, and search data in the online DLx database. Register your application [here][10] or at the link below to start interacting with the API.
-
-* [Application Registration Portal][10]
-* [Authenticating with the API][11]
-* [How to Use the API][7]
-* [API Reference][12]
+A REST API for developers to programmatically store, retrieve, and search data in the online DLx database. [View the full documentation on how to use the REST API here.][7]
 
 ## Databases
 DLx provides the following libraries that make it easy for developers to persist DLx data to a local or server-side database.
@@ -36,13 +32,10 @@ A repository containing images and branding assets, code style guides, and LESS 
 
 [1]:  http://developer.digitallinguistics.io/dlx-js
 [2]:  http://developer.digitallinguistics.io/dlx-idb
-[3]:  https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+[3]:  http://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
 [4]:  http://developer.digitallinguistics.io/dlx-api-js
 [5]:  http://developer.digitallinguistics.io/dlx-api-node
 [6]:  http://developer.digitallinguistics.io/dlx-db
 [7]:  http://developer.digitallinguistics.io/api
 [8]:  http://developer.digitallinguistics.io/spec
 [9]:  http://developer.digitallinguistics.io/styles
-[10]: https://myapps.digitallinguistics.io
-[11]: http://developer.digitallinguistics.io/api#authentication
-[12]: https://app.swaggerhub.com/api/DLx/dlx/
