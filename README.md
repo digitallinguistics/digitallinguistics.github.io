@@ -22,20 +22,21 @@ DLx provides the following libraries that make it easy for developers to persist
 
 Library             | Description
 ------------------- | -----------
-[`idb`][2]      | A JavaScript library for storing DLx data client-side in [IndexedDB][3]
-[`dlx‑api‑js`][4]   | A client-side JavaScript library for interacting with the DLx REST API
-[`dlx‑api‑node`][5] | A server-side JavaScript (Node.js) library for interacting with the DLx REST API
-[`dlx-db`][6]       | A client-side JavaScript library that connects to both IndexedDB and the DLx REST API, allowing users to sync data between both (essentially a wrapper for `idb` and `dlx-api-js`)
+[`idb`][10]      | A JavaScript library for storing DLx data client-side in [IndexedDB][3]
+[`api‑js`][4]   | A client-side JavaScript library for interacting with the DLx REST API
+[`api‑node`][5] | A server-side JavaScript (Node.js) library for interacting with the DLx REST API
+[`db`][6]       | A client-side JavaScript library that connects to both IndexedDB and the DLx REST API, allowing users to sync data between both (essentially a wrapper for `idb` and `api-js`)
 
 ## [Styles][9]
 A repository containing images and branding assets, code style guides, and LESS / CSS style guides for the DLx website and tools.
 
 [1]:  http://developer.digitallinguistics.io/dlx-js
-[2]:  http://developer.digitallinguistics.io/idb
+[2]:  http://developer.digitallinguistics.io/dlx-py
 [3]:  http://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
-[4]:  http://developer.digitallinguistics.io/dlx-api-js
-[5]:  http://developer.digitallinguistics.io/dlx-api-node
-[6]:  http://developer.digitallinguistics.io/dlx-db
+[4]:  http://developer.digitallinguistics.io/api-js
+[5]:  http://developer.digitallinguistics.io/api-node
+[6]:  http://developer.digitallinguistics.io/db
 [7]:  http://developer.digitallinguistics.io/api
 [8]:  http://developer.digitallinguistics.io/spec
 [9]:  http://developer.digitallinguistics.io/styles
+[10]: http://developer.digitallinguistics.io/idb
