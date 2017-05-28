@@ -25,7 +25,7 @@ Library             | Description
 [`idb`][10]      | A JavaScript library for storing DLx data client-side in [IndexedDB][3]
 [`api‑js`][4]   | A client-side JavaScript library for interacting with the DLx REST API
 [`api‑node`][5] | A server-side JavaScript (Node.js) library for interacting with the DLx REST API
-[`db`][6]       | A client-side JavaScript library that connects to both IndexedDB and the DLx REST API, allowing users to sync data between both (essentially a wrapper for `idb` and `api-js`)
+[`db-js`][6]       | A client-side JavaScript library that connects to both IndexedDB and the DLx REST API, allowing users to sync data between both (essentially a wrapper for `idb` and `api-js`)
 
 ## [Styles][9]
 A repository containing images and branding assets, code style guides, and LESS / CSS style guides for the DLx website and tools.
@@ -35,7 +35,7 @@ A repository containing images and branding assets, code style guides, and LESS 
 [3]:  http://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
 [4]:  http://developer.digitallinguistics.io/api-js
 [5]:  http://developer.digitallinguistics.io/api-node
-[6]:  http://developer.digitallinguistics.io/db
+[6]:  http://developer.digitallinguistics.io/db-js
 [7]:  http://developer.digitallinguistics.io/api
 [8]:  http://developer.digitallinguistics.io/spec
 [9]:  http://developer.digitallinguistics.io/styles
