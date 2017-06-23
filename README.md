@@ -52,4 +52,4 @@ A repository containing images and branding assets, code style guides, and LESS 
 [13]: https://app.digitallinguistics.io/
 [14]: http://developer.digitallinguistics.io/app/
 [15]: https://tools.digitallinguistics.io/
-[16]: http://developer.digitallinguistics.io/tools/
+[16]: https://github.com/digitallinguistics/tools#readme
