@@ -42,7 +42,7 @@ A repository containing images and branding assets, code style guides, and LESS 
 [3]:  http://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/
 [4]:  http://developer.digitallinguistics.io/api-js/
 [5]:  http://developer.digitallinguistics.io/api-node/
-[6]:  http://developer.digitallinguistics.io/db/
+[6]:  http://developer.digitallinguistics.io/db-js/
 [7]:  http://developer.digitallinguistics.io/api/
 [8]:  http://developer.digitallinguistics.io/spec/
 [9]:  http://developer.digitallinguistics.io/styles/
