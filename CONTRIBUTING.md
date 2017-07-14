@@ -14,6 +14,8 @@ Below are some general guidelines and information that apply to any of the DLx p
 
 * Code using the latest syntax, but compile your code with [Babel][1], using the `env` preset to target the latest two versions of Chrome, Edge, Firefox, iOS Safari, and desktop Safari. Use polyfills for Web APIs (such as `Fetch`) that are not supported in the latest version of those browsers. This allows you to write your code in a convenient manner, but ensure that it still runs on all modern browsers.
 
+* If a CSS property is not supported by the latest versions of Chrome, Edge, Firefox, iOS Safari, and desktop Safari, include an appropriate fallback.
+
 * Document your code using [JSDoc][3], even if you aren't producing live documentation for the code.
 
 * Developer-facing documentation should include [self-documenting code][10], [JSDoc-style comments][6], and documentation of build processes or other important information in [markdown][11] files.
