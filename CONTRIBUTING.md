@@ -46,8 +46,12 @@ DLx uses three separate roles for managing project contributors:
 
 * DLx has a recommended ESLint stylesheet for JavaScript available [here][5]. If your development environment supports ESLint, you can download the file, include it in the project directory, and automatically have your code linted (checked) while you type. (If you are using Atom as a text editor, install the package `linter-eslint`.)
 
+## Maintainers
+Project maintainers should follow the guidelines in the [Maintainer's Guide][6].
+
 [1]: https://babeljs.io/
 [2]: https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR/ref=sr_1_1?ie=UTF8&qid=1498679370&sr=8-1&keywords=inclusive+design
 [3]: http://usejsdoc.org/index.html
 [4]: https://github.com/digitallinguistics
 [5]: http://contributor-covenant.org/
+[6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/MAINTAINERS.md
