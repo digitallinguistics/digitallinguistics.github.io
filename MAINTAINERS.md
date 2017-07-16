@@ -29,7 +29,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Test client-side functionality
     - check every interactive element
     
-1. Test client-side performance
+1. Test client-side performance (< 1s first meaningful paint)
     - Lighthouse
     - Network Waterfall
     - Security Audit
