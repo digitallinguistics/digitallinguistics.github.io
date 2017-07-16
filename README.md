@@ -60,4 +60,4 @@ A repository containing images and branding assets, code style guides, and LESS 
 [15]: https://tools.digitallinguistics.io/
 [16]: https://github.com/digitallinguistics/tools#readme
 [17]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CONTRIBUTING.md
-[18]: http://blog.digitallinguistics.io/
+[18]: http://blog.digitallinguistics.io/tag/developers/
