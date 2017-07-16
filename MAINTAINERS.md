@@ -24,6 +24,17 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Write code so that your tests pass
 
+1. Check for accessibility
+
+1. Test client-side functionality
+    - check every interactive element
+    
+1. Test client-side performance
+    - Lighthouse
+    - Network Waterfall
+    - Security Audit
+    - Chrome Audits
+
 1. Update inline commenting in code (especially JSDoc comments)
 
 1. Update docs / readme again if your changes deviated from what you wrote earlier
