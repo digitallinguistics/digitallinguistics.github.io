@@ -36,8 +36,13 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
   - creating documentation, typically with JSDoc (`npm run docs`)
 
 1. Add commit message that closes the related issue (e.g. `closes #167`)
+
 1. Commit and push
+
 1. Open a pull request to the milestone branch, if present, or `master` branch otherwise
+
 1. Address any changes requested in the pull request review
+
 1. (Admin / Maintainer) Squash and merge pull request
+
 1. Repeat process with another issue
