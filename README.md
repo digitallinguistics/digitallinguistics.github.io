@@ -43,6 +43,10 @@ Library             | Description
 ## Styles
 A repository containing images and branding assets, code style guides, and LESS / CSS style guides for the DLx website, app, and tools. [View the styles repository here.][9]
 
+## Maintainers
+This repo is maintained by:
+- Daniel W. Hieber ([dhieber@umail.ucsb.edu](mailto:dhieber@umail.ucsb.edu))
+
 [1]:  http://developer.digitallinguistics.io/dlx-js/
 [2]:  http://developer.digitallinguistics.io/dlx-py/
 [3]:  http://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/
