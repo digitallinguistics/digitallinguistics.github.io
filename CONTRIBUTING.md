@@ -12,6 +12,16 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 DLx projects use GitHub issues and project boards for tracking all bugs, features, and tasks. To request a feature for a project or report a bug, go to the issues page in that project's GitHub repository. A complete list of DLx repositories can be found [here][4].
 
+## Contributor Roles
+
+DLx uses three separate roles for managing project contributors:
+
+1. `maintainer` - Responsible for code review, general direction, and high-level decisions for a project. 2-4 people per project. Maintainers (and admins) are the only people who can push to the `master` branch in a project.
+
+1. `developer` - A person with commit access to DLx repositories. Anyone who makes a contribution to a DLx project and has their pull request merged is automatically added to the DLx Developers team on GitHub, and is given write access to all DLx repositories (pushes to the `master` branch will still be restricted to maintainers and admins).
+
+1. `contributor` - Anyone who contributes to DLx in any way, whether by opening an issue, joining discussion on GitHub or Slack, or publishing / presenting on Digital Linguistics. Anyone is allowed to join the DLx Slack team and the discussions there - just email [dhieber@umail.ucsb.edu](mailto:dhieber@umail.ucsb.edu) for an invite.
+
 ## General Coding Guidelines
 
 * Avoid third-party libraries and frameworks when possible. This helps keep the code lightweight and easy for contributors to understand without needing to learn a new library or framework.
