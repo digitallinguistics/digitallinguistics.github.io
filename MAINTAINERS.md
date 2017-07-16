@@ -29,12 +29,11 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Update docs / readme again if your changes deviated from what you wrote earlier
 
 1. Run build process (`npm run build`), potentially including:
-  
-  - transpiling JS (`npm run transpile` - often included in the bundle step)
-  - bundling modules (`npm run bundle` - often includes transpiling JS)
-  - compiling LESS (`npm run less`)
-  - compiling Handlebars (`npm run hbs`)
-  - creating documentation, typically with JSDoc (`npm run docs`)
+    - transpiling JS (`npm run transpile` - often included in the bundle step)
+    - bundling modules (`npm run bundle` - often includes transpiling JS)
+    - compiling LESS (`npm run less`)
+    - compiling Handlebars (`npm run hbs`)
+    - creating documentation, typically with JSDoc (`npm run docs`)
 
 1. Add commit message that closes the related issue (e.g. `closes #167`)
 
