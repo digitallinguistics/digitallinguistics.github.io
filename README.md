@@ -5,7 +5,7 @@ Welcome to the DLx Developers page. Here you can find documentation on DLx tools
 Be sure to check out the [DLx Blog][18] for all the latest DLx updates!
 
 ## Contributing
-Interested in contributing to a DLx project? Awesome! :star2: Be sure to check out the [General Contributing Guidelines][17].
+Interested in contributing to a DLx project? Thank you! You're awesome! :star2: Check out the [General Contributing Guidelines][17] to get started. Also be sure to read the DLx [code of conduct][19].
 
 ## Website
 Check out the [DLx website][12] for general information about Digital Linguistics and its various projects.
@@ -65,3 +65,4 @@ This repo is maintained by:
 [16]: https://github.com/digitallinguistics/tools#readme
 [17]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CONTRIBUTING.md
 [18]: http://blog.digitallinguistics.io/tag/developers/
+[19]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CODE_OF_CONDUCT.md
