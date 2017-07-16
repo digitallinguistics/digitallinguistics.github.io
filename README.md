@@ -1,6 +1,9 @@
 # DLx Developers
 Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][11] to view all the DLx repositories.
 
+## Contributing
+Interested in contributing to a DLx project? Awesome! :star2: Be sure to check out the [General Contributing Guidelines][17] before beginning.
+
 ## Website
 Check out the [DLx website][12] for general information about Digital Linguistics and its various projects.
 
@@ -53,3 +56,4 @@ A repository containing images and branding assets, code style guides, and LESS 
 [14]: http://developer.digitallinguistics.io/app/
 [15]: https://tools.digitallinguistics.io/
 [16]: https://github.com/digitallinguistics/tools#readme
+[17]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CONTRIBUTING.md

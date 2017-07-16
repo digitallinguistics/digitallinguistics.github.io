@@ -1,8 +1,16 @@
 # Contributor Guidelines
 
-:star2: Thank you for contributing to the DLx project! :star2:
+:star2: Thank you for contributing to DLx! :star2:
 
-Below are some general guidelines and information that apply to any of the DLx projects.
+Below are some general guidelines and information that apply to any of the DLx projects. Each DLx project also has its own set of contributing guidelines, available in the `CONTRIBUTING.md` file in the root folder of the GitHub repository for that project.
+
+## About Digital Linguistics
+
+Digital Linguistics (DLx) is the science of the digital management, storage, and dissemination of linguistic data. Best practice in Digital Linguistics is to use the modern open web platform - primarily HTML, CSS, JavaScript, & JSON - for working with linguistic data. DLx projects aim to accommodate the ways linguists already think about and work with their data, and to provide an interoperable data format and set of tools for linguists to use. DLx projects are entirely open source, and aim for simplicity such that other collaborators in the community can contribute to any DLx project.
+
+## Requesting Features & Reporting Bugs
+
+DLx projects use GitHub issues and project boards for tracking all bugs, features, and tasks. To request a feature for a project or report a bug, go to the issues page in that project's GitHub repository. A complete list of DLx repositories can be found [here][4].
 
 ## General Coding Guidelines
 
@@ -27,3 +35,4 @@ Below are some general guidelines and information that apply to any of the DLx p
 [1]: https://babeljs.io/
 [2]: https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR/ref=sr_1_1?ie=UTF8&qid=1498679370&sr=8-1&keywords=inclusive+design
 [3]: http://usejsdoc.org/index.html
+[4]: https://github.com/digitallinguistics
