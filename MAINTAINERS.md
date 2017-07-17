@@ -25,6 +25,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Write code so that your tests pass
 
 1. Check for accessibility
+    - [a11y][1]
 
 1. Test client-side functionality
     - check every interactive element
@@ -57,3 +58,5 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. (Admin / Maintainer) Squash and merge pull request
 
 1. Repeat process with another issue
+
+[1]: http://ffoodd.github.io/a11y.css/index.html
