@@ -1,11 +1,15 @@
 # DLx Developers
 Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][11] to view all the DLx repositories.
 
+**Join DLx on Slack!**
+
+[![Join DLx on Slack!][21]][20]
+
 ## Blog
 Be sure to check out the [DLx Blog][18] for all the latest DLx updates!
 
 ## Contributing
-Interested in contributing to a DLx project? Thank you! You're awesome! :star2: Check out the [General Contributing Guidelines][17] to get started. Also be sure to read the DLx [code of conduct][19].
+Interested in contributing to a DLx project? Thank you! You're awesome! :star2: Check out the [General Contributing Guidelines][17] to get started, and be sure to read the DLx [code of conduct][19]. Also consider [joining the DLx Slack team][20] to talk to other users and developers about DLx projects.
 
 ## Website
 Check out the [DLx website][12] for general information about Digital Linguistics and its various projects.
@@ -66,3 +70,5 @@ This repo is maintained by:
 [17]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CONTRIBUTING.md
 [18]: http://blog.digitallinguistics.io/tag/developers/
 [19]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CODE_OF_CONDUCT.md
+[20]: https://slack.digitallinguistics.io/
+[21]: https://dlx-slack.azurewebsites.net/badge.svg
