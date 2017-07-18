@@ -4,6 +4,9 @@
 
 Below are some general guidelines and information that apply to any of the DLx projects. Each DLx project also has its own set of contributing guidelines, available in the `CONTRIBUTING.md` file in the root folder of the GitHub repository for that project.
 
+## Join DLx on Slack!
+[![Join DLx on Slack!][8]][7]
+
 ## About Digital Linguistics
 
 Digital Linguistics (DLx) is the science of the digital management, storage, and dissemination of linguistic data. Best practice in Digital Linguistics is to use the modern open web platform - primarily HTML, CSS, JavaScript, & JSON - for working with linguistic data. DLx projects aim to accommodate the ways linguists already think about and work with their data, and to provide an interoperable data format and set of tools for linguists to use. DLx projects are entirely open source, and aim for simplicity such that other collaborators in the community can contribute to any DLx project.
@@ -55,3 +58,5 @@ Project maintainers should follow the guidelines in the [Maintainer's Guide][6].
 [4]: https://github.com/digitallinguistics
 [5]: http://contributor-covenant.org/
 [6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/MAINTAINERS.md
+[7]: https://slack.digitallinguistics.io/
+[8]: https://dlx-slack.azurewebsites.net/badge.svg

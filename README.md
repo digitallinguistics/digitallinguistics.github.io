@@ -1,8 +1,7 @@
 # DLx Developers
 Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][11] to view all the DLx repositories.
 
-**Join DLx on Slack!**
-
+## Join DLx on Slack!
 [![Join DLx on Slack!][21]][20]
 
 ## Blog
