@@ -25,6 +25,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Write code so that your tests pass
 
 1. Check for accessibility
+    - [accessibility checklist][2]
     - [a11y][1]
 
 1. Test client-side functionality
@@ -60,3 +61,4 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Repeat process with another issue
 
 [1]: http://ffoodd.github.io/a11y.css/index.html
+[2]: https://bitsofco.de/the-accessibility-cheatsheet/?utm_source=CSS-Weekly&utm_campaign=Issue-274&utm_medium=web
