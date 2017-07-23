@@ -4,9 +4,9 @@ This is a general-purpose guide for maintainers of DLx projects.
 ## Workflow
 Below is the general workflow to use for DLx projects. It is designed to ensure that every change to a project is tracked by a GitHub issue, and, where applicable, a project board.
 
-1. Open new issues
+- [ ] 1. Open new issues
 
-1. Triage issues on the project board
+- [ ] 1. Triage issues on the project board
 
 1. Create a new milestone
 
