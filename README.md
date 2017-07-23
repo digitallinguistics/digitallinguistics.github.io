@@ -9,7 +9,8 @@ Join DLx on Slack! [![Join DLx on Slack!][21]][20]
 
 Follow DLx on Twitter!
 
-<a href="https://twitter.com/digitalling" class="twitter-follow-button" data-show-count="false">Follow @digitalling</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/digitalling" class="twitter-follow-button" data-show-count="true">Follow @digitalling on Twitter!</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contributing
 Interested in contributing to a DLx project? Thank you! You're awesome! :star2: Check out the [General Contributing Guidelines][17] to get started, and be sure to read the DLx [code of conduct][19]. Also consider [joining the DLx Slack team][20] to talk to other users and developers about DLx projects.
