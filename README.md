@@ -5,7 +5,9 @@ Welcome to the DLx Developers page. Here you can find documentation on DLx tools
 
 Check out the [DLx Blog][18] for all the latest DLx updates!
 
-Join DLx on Slack! [![Join DLx on Slack!][21]][20]
+Join DLx on Slack!
+
+[![Join DLx on Slack!][21]][20]
 
 [Follow DLx on Twitter!][22]
 
