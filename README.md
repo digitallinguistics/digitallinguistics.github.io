@@ -7,9 +7,10 @@ Check out the [DLx Blog][18] for all the latest DLx updates!
 
 Join DLx on Slack! [![Join DLx on Slack!][21]][20]
 
-Follow DLx on Twitter!
+[Follow DLx on Twitter!][22]
 
 <a href="https://twitter.com/digitalling" class="twitter-follow-button" data-show-count="true">Follow @digitalling on Twitter!</a>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Contributing
@@ -76,5 +77,5 @@ This repo is maintained by:
 [19]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CODE_OF_CONDUCT.md
 [20]: https://slack.digitallinguistics.io/
 [21]: https://dlx-slack.azurewebsites.net/badge.svg
-[22]:
+[22]:https://twitter.com/digitalling
 [23]: https://github.com/dwhieb
