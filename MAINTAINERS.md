@@ -58,6 +58,12 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. (Admin / Maintainer) Squash and merge pull request
 
+1. Create a release for the new version
+
+1. Publish the project to npm
+
+1. Upload assets to the DLx CDN
+
 1. Repeat process with another issue
 
 [1]: http://ffoodd.github.io/a11y.css/index.html
