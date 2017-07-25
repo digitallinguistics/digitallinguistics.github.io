@@ -30,7 +30,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Test client-side functionality
     - check every interactive element
-    
+
 1. Test client-side performance (< 1s first meaningful paint)
     - Lighthouse
     - Network Waterfall
@@ -63,6 +63,8 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Publish the project to npm
 
 1. Upload assets to the DLx CDN
+
+1. Create blog post about the new release, feature, etc. (if applicable)
 
 1. Repeat process with another issue
 
