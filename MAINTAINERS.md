@@ -52,6 +52,8 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Commit and push
 
+1. Repeat testing on development server, if applicable
+
 1. Open a pull request to the milestone branch, if present, or `master` branch otherwise
 
 1. Address any changes requested in the pull request review
