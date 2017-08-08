@@ -56,7 +56,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Address any changes requested in the pull request review
 
-1. (Admin / Maintainer) Squash and merge pull request
+1. (Admin / Maintainer) Squash and merge pull request, then delete issue branch
 
 1. Create a release for the new version
 
