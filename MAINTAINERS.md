@@ -38,6 +38,8 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
     - Network Waterfall
     - Security Audit
     - Chrome Audits
+    
+1. Remove any test-related code, if needed
 
 1. Update inline commenting in code (especially JSDoc comments)
 
