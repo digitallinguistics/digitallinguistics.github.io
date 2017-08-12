@@ -6,6 +6,8 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Open new issues
 
+1. Add labels and details to issues
+
 1. Triage issues on the project board
 
 1. Create a new milestone
