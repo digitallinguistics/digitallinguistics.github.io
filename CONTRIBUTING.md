@@ -6,6 +6,7 @@ Below are some general guidelines and information that apply to any of the DLx p
 
 ## Join DLx on Slack!
 [![Join DLx on Slack!][8]][7]
+[Join the DLx chat channel on Slack][7] to get help and talk to developers and other members of the DLx community. Go to the [DLx Slack signup page][7] to create an account.
 
 ## About Digital Linguistics
 
