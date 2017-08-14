@@ -12,7 +12,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Create a new milestone
 
-1. Choose issues from project board to include in milestone
+1. Choose and sort issues from project board to include in milestone
 
 1. Select an issue to work on
 
