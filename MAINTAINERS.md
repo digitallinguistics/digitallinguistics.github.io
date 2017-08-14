@@ -26,6 +26,9 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Write code so that your tests pass, or spec in documentation is met
 
+1. Check for common typos:
+    - `langauge`
+
 1. Check for accessibility, if not already done programmatically
     - [accessibility checklist][2]
     - [a11y][1]
