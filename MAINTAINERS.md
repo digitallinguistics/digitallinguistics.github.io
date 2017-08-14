@@ -47,6 +47,7 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Update inline commenting in code (especially JSDoc comments)
 
 1. Update docs / readme again if your changes deviated from what you wrote earlier
+    - update any screenshots if needed
 
 1. Run build process (`npm run build`), potentially including:
     - transpiling JS (`npm run transpile` - often included in the bundle step)
