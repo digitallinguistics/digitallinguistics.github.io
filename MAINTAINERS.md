@@ -34,9 +34,11 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
     - [a11y][1]
 
 1. Test client-side functionality, if not already done progammatically
-    - check every interactive element
+    - Chrome
+    - Edge
+    - Firefox
 
-1. Test client-side performance (< 1s first meaningful paint)
+1. Test client-side performance
     - Lighthouse
     - Network Waterfall
     - Security Audit
