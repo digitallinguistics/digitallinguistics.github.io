@@ -29,9 +29,9 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 1. Test server-side functionality (Node)
 
 1. Test client-side functionality
-    - Chrome
-    - Edge
-    - Firefox
+    - Chrome (incognito)
+    - Edge (regular)
+    - Firefox (regular)
 
 1. Check for common typos:
     - `langauge`
