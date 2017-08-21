@@ -33,6 +33,8 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
     - Edge (regular)
     - Firefox (regular)
 
+1. Test offline functionality
+
 1. Check for common typos:
     - `langauge`
 
