@@ -24,6 +24,12 @@ Below is the general workflow to use for DLx projects. It is designed to ensure 
 
 1. Plan and write / update a test for the change, if applicable
 
+1. Update dependencies
+    - npm
+    - Node
+    - npm packages
+    - `<script>` tags
+
 1. Write code so that your tests pass, or spec in documentation is met
 
 1. Test server-side functionality (Node)
