@@ -7,6 +7,7 @@ Welcome to the DLx Developers page. Here you can find documentation on DLx tools
 * [About Digital Linguistics](#about-digital-linguistics)
 * [DLx on the Web](#dlx-on-the-web)
 * [Projects](#projects)
+* [Developer Resources](#developer-resources)
 
 ## About Digital Linguistics
 
@@ -26,7 +27,16 @@ DLx maintains the following projects:
 
     A specification for representing linguistic data in JSON.
 
+## Developer Resources
+
+DLx makes the following developer resources available:
+
+* [CSS Stylesheet][6] (Stylelint)
+* [JavaScript stylesheet][5] (ESLint)
+
 [1]: https://github.com/digitallinguistics/
 [2]: https://medium.com/digital-linguistics
 [3]: https://digitallinguistics.io/
 [4]: https://developer.digitallinguistics.io/spec
+[5]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
+[6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
