@@ -14,4 +14,4 @@ DLx uses three separate roles for managing project contributors:
 
 1. `contributor` - Anyone who contributes to DLx in any way, whether by opening an issue, joining discussion on GitHub, or publishing / presenting on Digital Linguistics.
 
-[1]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/CODE_OF_CONDUCT.md
+[1]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/.github/CODE_OF_CONDUCT.md
