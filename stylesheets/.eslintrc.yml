@@ -1,6 +1,6 @@
-# ESLint v5.1.0
+# ESLint v5.9.0
 parserOptions:
-  ecmaVersion: 2018
+  ecmaVersion: 10
   ecmaFeatures:
     impliedStrict: true
   sourceType: module
@@ -189,6 +189,7 @@ rules:
   - ignoreChainWithDepth: 3
   no-alert: warn
   no-array-constructor: warn
+  no-async-promise-executor: error
   no-await-in-loop: error
   no-bitwise: warn
   no-buffer-constructor: error
@@ -308,6 +309,7 @@ rules:
     - 503
     - 1000
     - 3000
+  no-misleading-character-class: error
   no-mixed-operators:
   - warn
   - allowSamePrecedence: true
@@ -486,13 +488,9 @@ rules:
   radix:
   - error
   - always
+  require-atomic-updates: error
   require-await: error
-  require-jsdoc:
-  - error
-  - require:
-      FunctionDeclaration: true
-      MethodDefinition: false
-      ClassDeclaration: false
+  require-unicode-regexp: error
   require-yield: error
   rest-spread-spacing:
   - error
@@ -570,32 +568,4 @@ rules:
   yoda:
   - error
   - never
-  valid-jsdoc:
-  - warn
-  - prefer:
-      arg: param
-      argument: param
-      augments: extends
-      constant: const
-      constructor: class
-      defaultvalue: default
-      exception: throws
-      file: overview
-      fileoverview: overview
-      fires: emits
-      func: function
-      host: external
-      property: prop
-      returns: return
-      virtual: abstract
-    preferType:
-      boolean: Boolean
-      number: Number
-      object: Object
-      string: String
-      function: Function
-      promise: Promise
-    requireParamDescription: true
-    requireReturnDescription: false
-    requireReturn: false
-    requireReturnType: true
+  - onlyEquality: true
