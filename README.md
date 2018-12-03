@@ -31,6 +31,7 @@ DLx maintains the following projects:
 
 DLx makes the following developer resources available:
 
+* [Pattern Library][7]
 * [CSS Stylesheet][6] (Stylelint)
 * [JavaScript stylesheet][5] (ESLint)
 
@@ -40,3 +41,4 @@ DLx makes the following developer resources available:
 [4]: https://developer.digitallinguistics.io/spec
 [5]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
+[7]: https://styles.digitallinguistics.io
