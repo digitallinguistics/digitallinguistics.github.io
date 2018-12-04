@@ -121,7 +121,7 @@ rules:
   length-zero-no-unit: null
   max-empty-lines: 2
   max-line-length:
-    - 80
+    - 100
     - ignore:
       - comments
   max-nesting-depth:
