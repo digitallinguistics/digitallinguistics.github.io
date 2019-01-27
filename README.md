@@ -1,6 +1,6 @@
 # DLx Developers
 
-Welcome to the DLx Developers page. Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][1] to view all the DLx repositories.
+Welcome to the DLx Developers page! Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][1] to view all the DLx repositories.
 
 ## Contents
 
@@ -27,6 +27,10 @@ DLx maintains the following projects:
 
     A specification for representing linguistic data in JSON.
 
+* ### [Transliteration / Sanitization Library][5]
+
+    A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
+
 ## Developer Resources
 
 DLx makes the following developer resources available:
@@ -38,7 +42,8 @@ DLx makes the following developer resources available:
 [1]: https://github.com/digitallinguistics/
 [2]: https://medium.com/digital-linguistics
 [3]: https://digitallinguistics.io/
-[4]: https://developer.digitallinguistics.io/spec
+[4]: https://spec.digitallinguistics.io
 [5]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
 [7]: https://styles.digitallinguistics.io
+[8]: https://developer.digitallinguistics.io/transliterate
