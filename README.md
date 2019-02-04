@@ -27,7 +27,7 @@ DLx maintains the following projects:
 
     A specification for representing linguistic data in JSON.
 
-* ### [Transliteration / Sanitization Library][5]
+* ### [Transliteration / Sanitization Library][8]
 
     A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
 
