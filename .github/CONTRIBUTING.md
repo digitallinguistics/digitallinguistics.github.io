@@ -4,6 +4,10 @@
 
 DLx projects follow a Code of Conduct, available [here][1].
 
+## DLx Style Library
+
+DLx has its own [style library][2], containing LESS stylesheets and other assets for components used across DLx projects. DLx styles are based on the default [Semantic UI][3] theme. In most cases, DLx projects use the [LESS distribution][4] of Semantic UI, so that only the styles for individual components need to be included in a project, rather than the entire Semantic UI library.
+
 ## Contributor Roles
 
 DLx uses three separate roles for managing project contributors:
@@ -15,3 +19,6 @@ DLx uses three separate roles for managing project contributors:
 1. `contributor` - Anyone who contributes to DLx in any way, whether by opening an issue, joining discussion on GitHub, or publishing / presenting on Digital Linguistics.
 
 [1]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/.github/CODE_OF_CONDUCT.md
+[2]: https://styles.digitallinguistics.io
+[3]: https://semantic-ui.com/
+[4]: https://semantic-ui.com/introduction/getting-started.html#using-build-tools
