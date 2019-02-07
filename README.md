@@ -15,7 +15,7 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 ## DLx on the Web
 
-* [Tulip (Tools for Digital Linguistics)][9]
+* [TooLiP (Tools for Digital Linguistics)][9]
 * [Blog][2]
 * [GitHub][1]
 * [Website][3]
@@ -24,11 +24,11 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 DLx maintains the following projects:
 
-* ### [Tulip (Tools for Digital Linguistics)][9]
+* ### [TooLiP (Tools for Digital Linguistics)][9]
 
     A collection of tools and utilities for accomplishing specific tasks when working with language data.
 
-* ### [Data Format for Digital Linguistics (DaFoDiL)][4]
+* ### [DaFoDiL (Data Format for Digital Linguistics)][4]
 
     A specification for representing linguistic data in JSON.
 
