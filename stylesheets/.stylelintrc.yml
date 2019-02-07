@@ -1,29 +1,11 @@
-# Stylelint 8.4.0
+# Stylelint 9.10.1
 rules:
 
   # blacklists / whitelists / regexp
-  at-rule-blacklist:
-  comment-word-blacklist:
   custom-media-pattern: null
   custom-property-pattern: null
-  declaration-property-unit-blacklist:
-  declaration-property-unit-whitelist:
-  declaration-property-value-blacklist:
-  declaration-property-value-whitelist:
-  function-blacklist:
-  function-url-scheme-blacklist:
-  function-url-scheme-whitelist:
-  function-whitelist:
-  media-feature-name-blacklist:
-  media-feature-name-whitelist:
-  property-blacklist:
-  property-whitelist:
-  selector-attribute-operator-blacklist:
-  selector-attribute-operator-whitelist:
   selector-class-pattern: null
   selector-id-pattern: null
-  selector-pseudo-class-blacklist:
-  selector-pseudo-class-whitelist:
   unit-blacklist:
     -
       - cm
@@ -38,7 +20,6 @@ rules:
         px:
           - min-width
           - max-width
-  unit-whitelist:
 
   # rules
   at-rule-empty-line-before: null
@@ -101,6 +82,7 @@ rules:
   font-family-name-quotes: always-where-recommended
   font-family-no-missing-generic-family-keyword: true
   font-weight-notation: named-where-possible
+  function-calc-no-invalid: true
   function-calc-no-unspaced-operator: true
   function-comma-newline-after: never-multi-line
   function-comma-newline-before: never-multi-line
@@ -118,7 +100,9 @@ rules:
     - 2
     - indentClosingBrace: false
   keyframe-declaration-no-important: true
+  keyframes-name-pattern: null
   length-zero-no-unit: null
+  linebreaks: null
   max-empty-lines: 2
   max-line-length:
     - 100
@@ -144,6 +128,7 @@ rules:
     - severity: warning
   no-duplicate-at-import-rules: true
   no-duplicate-selectors: true
+  no-empty-first-line: true
   no-empty-source: true
   no-eol-whitespace: true
   no-extra-semicolons: true
@@ -184,6 +169,7 @@ rules:
     - severity: warning
   selector-max-empty-lines: 2
   selector-max-id: 1
+  selector-max-pseudo-class: null
   selector-max-specificity:
     - '1,3,1'
     - severity: warning

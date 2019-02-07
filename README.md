@@ -15,6 +15,7 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 ## DLx on the Web
 
+* [Tulip (Tools for Digital Linguistics)][9]
 * [Blog][2]
 * [GitHub][1]
 * [Website][3]
@@ -22,6 +23,10 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 ## Projects
 
 DLx maintains the following projects:
+
+* ### [Tulip (Tools for Digital Linguistics)][9]
+
+    A collection of tools and utilities for accomplishing specific tasks when working with language data.
 
 * ### [Data Format for Digital Linguistics (DaFoDiL)][4]
 
@@ -35,9 +40,9 @@ DLx maintains the following projects:
 
 DLx makes the following developer resources available:
 
-* [Pattern Library][7]
+* [CSS Style Library][7]
 * [CSS Stylesheet][6] (Stylelint)
-* [JavaScript stylesheet][5] (ESLint)
+* [JavaScript Stylesheet][5] (ESLint)
 
 [1]: https://github.com/digitallinguistics/
 [2]: https://medium.com/digital-linguistics
@@ -47,3 +52,4 @@ DLx makes the following developer resources available:
 [6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
 [7]: https://styles.digitallinguistics.io
 [8]: https://developer.digitallinguistics.io/transliterate
+[9]: https://tools.digitallinguistics.io
