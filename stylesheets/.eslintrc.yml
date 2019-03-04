@@ -1,4 +1,4 @@
-# ESLint v5.13.0
+# ESLint v5.15.0
 parserOptions:
   ecmaVersion: 10
   ecmaFeatures:
@@ -469,6 +469,7 @@ rules:
   - array: false
     object: true
   - enforceForRenamedProperties: false
+  prefer-named-capture-group: warn
   prefer-numeric-literals: warn
   prefer-object-spread: off
   prefer-promise-reject-errors:
