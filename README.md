@@ -37,6 +37,10 @@ DLx maintains the following projects:
 
     Guidelines for representing linguistic data in JSON.
 
+* ### [Scription][Scription]
+
+    Scription is a simple plain-text format for representing linguistic texts that is computer-readable.
+
 * ### [Transliteration Library][Transliterate]
 
     A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
@@ -55,6 +59,7 @@ DLx makes the following developer resources available:
 [ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
+[Scription]:     https://scription.digitallinguistics.io
 [Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
 [Styles]:        https://styles.digitallinguistics.io
 [Transliterate]: https://developer.digitallinguistics.io/transliterate
