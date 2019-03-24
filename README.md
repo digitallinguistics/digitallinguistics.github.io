@@ -1,6 +1,6 @@
 # DLx Developers
 
-Welcome to the DLx Developers page! Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][1] to view all the DLx repositories.
+Welcome to the DLx Developers page! Here you can find documentation on DLx tools, assets, and utilities for your various DLx projects. Check out the links below for more, or head to the [Digital Linguistics GitHub page][GitHub] to view all the DLx repositories.
 
 ## Contents
 
@@ -15,24 +15,29 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 ## DLx on the Web
 
-* [TooLiP (Tools for Digital Linguistics)][9]
-* [Blog][2]
-* [GitHub][1]
-* [Website][3]
+* [Lotus (App for Managing Linguistic Data)][Lotus]
+* [Tulip (Tools for Linguistic Productivity)][Tulip]
+* [Blog][Blog]
+* [GitHub][GitHub]
+* [Website][Website]
 
 ## Projects
 
 DLx maintains the following projects:
 
-* ### [TooLiP (Tools for Digital Linguistics)][9]
+* ### [Lotus (Web App for Managing Linguistic Data)][Lotus]
 
-    A collection of tools and utilities for accomplishing specific tasks when working with language data.
+    A web app for linguists to enter, edit, and manage their linguistic data and corpora. Includes tools for managing lexicons and texts, and for tagging corpora. Works offline or online, and allows for online collaboration.
 
-* ### [DaFoDiL (Data Format for Digital Linguistics)][4]
+* ### [Tulip (Tools for Linguistic Productivity)][Tulip]
 
-    A specification for representing linguistic data in JSON.
+    A collection of standalone tools and utilities for accomplishing specific tasks when working with language data, such as converting between different text formats or writing systems.
 
-* ### [Transliteration / Sanitization Library][8]
+* ### [Daffodil (Data Format for Digital Linguistics)][Daffodil]
+
+    Guidelines for representing linguistic data in JSON.
+
+* ### [Transliteration Library][Transliterate]
 
     A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
 
@@ -40,16 +45,18 @@ DLx maintains the following projects:
 
 DLx makes the following developer resources available:
 
-* [CSS Style Library][7]
-* [CSS Stylesheet][6] (Stylelint)
-* [JavaScript Stylesheet][5] (ESLint)
+* [CSS Style Library][Styles]
+* [CSS Stylesheet][Stylelint] (Stylelint)
+* [JavaScript Stylesheet][ESLint] (ESLint)
 
-[1]: https://github.com/digitallinguistics/
-[2]: https://medium.com/digital-linguistics
-[3]: https://digitallinguistics.io/
-[4]: https://spec.digitallinguistics.io
-[5]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
-[6]: https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
-[7]: https://styles.digitallinguistics.io
-[8]: https://developer.digitallinguistics.io/transliterate
-[9]: https://tools.digitallinguistics.io
+
+[Blog]:          https://medium.com/digital-linguistics
+[Daffodil]:      https://spec.digitallinguistics.io
+[ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
+[GitHub]:        https://github.com/digitallinguistics/
+[Lotus]:         https://developer.digitallinguistics.io/app
+[Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
+[Styles]:        https://styles.digitallinguistics.io
+[Transliterate]: https://developer.digitallinguistics.io/transliterate
+[Tulip]:         https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
+[Website]:       https://digitallinguistics.io/
