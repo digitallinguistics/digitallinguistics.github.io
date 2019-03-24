@@ -7,6 +7,7 @@ Welcome to the DLx Developers page! Here you can find documentation on DLx tools
 * [About Digital Linguistics](#about-digital-linguistics)
 * [DLx on the Web](#dlx-on-the-web)
 * [Projects](#projects)
+* [Converters](#converters)
 * [Developer Resources](#developer-resources)
 
 ## About Digital Linguistics
@@ -44,6 +45,12 @@ DLx maintains the following projects:
 * ### [Transliteration Library][Transliterate]
 
     A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
+
+## Converters
+
+The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in Tulip.
+
+* [Scription > DLx](https://developer.digitallinguistics.io/scription2dlx/)
 
 ## Developer Resources
 
