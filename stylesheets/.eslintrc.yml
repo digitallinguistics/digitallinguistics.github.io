@@ -324,6 +324,7 @@ rules:
   - ignoreEOLComments: true
     exceptions:
       AssignmentExpression: true
+      AssignmentPattern: true
       IfStatement: true
       ImportDeclaration: true
       ImportSpecifier: true

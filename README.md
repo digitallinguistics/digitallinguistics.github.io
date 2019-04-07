@@ -62,7 +62,7 @@ DLx makes the following developer resources available:
 
 
 [Blog]:          https://medium.com/digital-linguistics
-[Daffodil]:      https://spec.digitallinguistics.io
+[Daffodil]:      https://format.digitallinguistics.io
 [ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
