@@ -1,4 +1,4 @@
-# ESLint v5.15.2
+# ESLint v5.16.0
 parserOptions:
   ecmaVersion: 10
   ecmaFeatures:

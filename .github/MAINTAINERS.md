@@ -1,0 +1,21 @@
+# Critical Path
+
+- [ ] [blog](https://medium.com/digital-linguistics)
+- [ ] [meta](https://github.com/orgs/digitallinguistics/projects/3)
+- [ ] [developer.digitallinguistics.io](https://github.com/digitallinguistics/digitallinguistics.github.io)
+- [ ] [styles](https://github.com/digitallinguistics/styles)
+- [ ] [ling-ref](https://github.com/dwhieb/ling-ref)
+- [ ] [digitallinguistics.io](https://github.com/digitallinguistics/digitallinguistics.io)
+- [ ] [brochure](https://github.com/digitallinguistics/styles/blob/master/brochure.pub)
+- [ ] [spec](https://github.com/digitallinguistics/spec)
+- [ ] [scription](https://github.com/digitallinguistics/scription)
+- [ ] [transliterate](https://github.com/digitallinguistics/transliterate)
+- [ ] [gloss-parser](https://github.com/digitallinguistics/gloss-parser)
+- [ ] converters
+  - [scription2dlx](https://github.com/digitallinguistics/scription2dlx)
+  - [flextext2dlx](https://github.com/digitallinguistics/flextext2dlx)
+- [ ] [javascript](https://github.com/digitallinguistics/javascript)
+- [ ] [tools](https://github.com/digitallinguistics/tools)
+- [ ] [api](https://github.com/digitallinguistics/api)
+- [ ] [app](https://github.com/digitallinguistics/app)
+- [ ] [DFT](https://github.com/digitallinguistics/DFT)
