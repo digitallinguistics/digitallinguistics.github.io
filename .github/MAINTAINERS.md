@@ -11,8 +11,8 @@
 - [ ] [scription](https://github.com/digitallinguistics/scription)
 - [ ] [transliterate](https://github.com/digitallinguistics/transliterate)
 - [ ] converters
-  - [scription2dlx](https://github.com/digitallinguistics/scription2dlx)
-  - [flextext2dlx](https://github.com/digitallinguistics/flextext2dlx)
+  - [ ] [scription2dlx](https://github.com/digitallinguistics/scription2dlx)
+  - [ ] [flextext2dlx](https://github.com/digitallinguistics/flextext2dlx)
 - [ ] [javascript](https://github.com/digitallinguistics/javascript)
 - [ ] [tools](https://github.com/digitallinguistics/tools)
 - [ ] [api](https://github.com/digitallinguistics/api)
