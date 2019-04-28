@@ -10,7 +10,6 @@
 - [ ] [spec](https://github.com/digitallinguistics/spec)
 - [ ] [scription](https://github.com/digitallinguistics/scription)
 - [ ] [transliterate](https://github.com/digitallinguistics/transliterate)
-- [ ] [gloss-parser](https://github.com/digitallinguistics/gloss-parser)
 - [ ] converters
   - [scription2dlx](https://github.com/digitallinguistics/scription2dlx)
   - [flextext2dlx](https://github.com/digitallinguistics/flextext2dlx)
