@@ -6,7 +6,7 @@ DLx projects follow a Code of Conduct, available [here][1].
 
 ## DLx Style Library
 
-DLx has its own [style library][2], containing LESS stylesheets and other assets for components used across DLx projects. DLx styles are based on the default [Semantic UI][3] theme. In most cases, DLx projects use the [LESS distribution][4] of Semantic UI, so that only the styles for individual components need to be included in a project, rather than the entire Semantic UI library.
+DLx has its own [style library][2], containing LESS stylesheets and other assets for components used across DLx projects.
 
 ## Contributor Roles
 
