@@ -65,7 +65,7 @@ DLx makes the following developer resources available:
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
 [Scription]:     https://scription.digitallinguistics.io
-[Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelint.yml
+[Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelintrc.yml
 [Styles]:        https://styles.digitallinguistics.io
 [Transliterate]: https://developer.digitallinguistics.io/transliterate
 [Tulip]:         https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
