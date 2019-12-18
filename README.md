@@ -48,7 +48,8 @@ DLx maintains the following projects:
 
 The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in [Tulip][Tulip].
 
-* [Scription > DLx](https://developer.digitallinguistics.io/scription2dlx/)
+* [Scription > DLx](scription2dlx)
+* [Tagged Text > DLx](tags2dlx)
 
 ## Developer Resources
 
@@ -70,3 +71,7 @@ DLx makes the following developer resources available:
 [Transliterate]: https://developer.digitallinguistics.io/transliterate
 [Tulip]:         https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
 [Website]:       https://digitallinguistics.io/
+
+<!-- Converters -->
+[scription2dlx]: https://developer.digitallinguistics.io/scription2dlx/
+[tags2dlx]:      https://developer.digitallinguistics.io/tags2dlx/
