@@ -12,12 +12,10 @@ Welcome to the DLx Developers page! Here you can find documentation on DLx tools
 
 ## About Digital Linguistics
 
-Digital Linguistics (DLx) is the science of the digital management, storage, and dissemination of linguistic data. Best practice in Digital Linguistics is to use the modern open web platform - primarily HTML, CSS, JavaScript, & JSON - for working with linguistic data. DLx projects aim to accommodate the ways linguists already think about and work with their data, and to provide an interoperable data format and set of tools for linguists to use. DLx projects are entirely open source, and aim for simplicity such that other collaborators in the community can contribute to any DLx project.
+Digital Linguistics (DLx) is the science of the digital management, storage, and dissemination of linguistic data. Best practice in Digital Linguistics is to use the modern open web platform—primarily HTML, CSS, JavaScript, & JSON—for working with linguistic data. DLx projects aim to accommodate the ways linguists already think about and work with their data, and to provide an interoperable data format and set of tools for linguists to use. DLx projects are entirely open source, and aim for simplicity such that other collaborators in the community can contribute to any DLx project.
 
 ## DLx on the Web
 
-* [Lotus (App for Managing Linguistic Data)][Lotus]
-* [Tulip (Tools for Linguistic Productivity)][Tulip]
 * [Blog][Blog]
 * [GitHub][GitHub]
 * [Website][Website]
@@ -48,7 +46,7 @@ DLx maintains the following projects:
 
 ## Converters
 
-The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in Tulip.
+The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in [Tulip][Tulip].
 
 * [Scription > DLx](https://developer.digitallinguistics.io/scription2dlx/)
 
