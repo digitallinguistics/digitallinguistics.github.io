@@ -1,6 +1,6 @@
-# ESLint v5.16.0
+# ESLint v6.7.2
 parserOptions:
-  ecmaVersion: 10
+  ecmaVersion: 11
   ecmaFeatures:
     impliedStrict: true
   sourceType: module
@@ -76,6 +76,7 @@ rules:
   - multi-line
   - consistent
   default-case: error
+  default-param-last: error
   dot-location:
   - error
   - property
@@ -98,6 +99,8 @@ rules:
   - as-needed
   func-style:
   - off
+  function-call-argument-newline:
+  - off
   function-paren-newline:
   - error
   - multiline
@@ -109,6 +112,9 @@ rules:
   - error
   - allowImplicit: true
   global-require: warn
+  grouped-accessor-pairs:
+  - warn
+  - getBeforeSet
   guard-for-in: warn
   handle-callback-err: error
   id-length: 'off'
@@ -219,11 +225,13 @@ rules:
   - checkLoops: true
   no-continue: warn
   no-control-regex: warn
+  no-constructor-return: warn
   no-delete-var: error
   no-div-regex: off
   no-debugger: error
   no-dupe-args: error
   no-dupe-class-members: error
+  no-dupe-else-if: error
   no-dupe-keys: error
   no-duplicate-case: error
   no-duplicate-imports:
@@ -258,6 +266,7 @@ rules:
   no-implicit-coercion: warn
   no-implicit-globals: error
   no-implied-eval: error
+  no-import-assign: error
   no-inline-comments: 'off'
   no-inner-declarations:
   - error
@@ -328,6 +337,7 @@ rules:
       IfStatement: true
       ImportDeclaration: true
       ImportSpecifier: true
+      VariableDeclaration: true
       VariableDeclarator: true
   no-multi-str: error
   no-multiple-empty-lines:
@@ -363,6 +373,7 @@ rules:
   no-self-assign: error
   no-self-compare: error
   no-sequences: error
+  no-setter-return: error
   no-shadow:
   - warn
   - builtinGlobals: true
@@ -391,6 +402,7 @@ rules:
   no-underscore-dangle:
   - warn
   - allow:
+    - __dirname
     - _ts
     - _etag
   no-unexpected-multiline: error
@@ -470,9 +482,11 @@ rules:
   - array: false
     object: true
   - enforceForRenamedProperties: false
+  prefer-exponentiation-operator: error
   prefer-named-capture-group: warn
   prefer-numeric-literals: warn
   prefer-object-spread: off
+  prefer-regex-literals: off
   prefer-promise-reject-errors:
   - warn
   - allowEmptyReject: true
