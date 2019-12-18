@@ -20,9 +20,7 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 * [GitHub][GitHub]
 * [Website][Website]
 
-## Projects
-
-DLx maintains the following projects:
+## Web Apps & Tools
 
 * ### [Lotus (Web App for Managing Linguistic Data)][Lotus]
 
@@ -32,6 +30,8 @@ DLx maintains the following projects:
 
     A collection of standalone tools and utilities for accomplishing specific tasks when working with language data, such as converting between different text formats or writing systems.
 
+## Data Formats
+
 * ### [Daffodil (Data Format for Digital Linguistics)][Daffodil]
 
     Guidelines for representing linguistic data in JSON.
@@ -40,9 +40,15 @@ DLx maintains the following projects:
 
     Scription is a simple plain-text format for representing linguistic texts that is computer-readable.
 
+## JavaScript Libraries
+
+* ### [Concordance Library][Concordance]
+
+    _(Node)_ A library for creating a concordance of words in a DLx-formatted corpus.
+
 * ### [Transliteration Library][Transliterate]
 
-    A small JavaScript library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
+    _(browser, Node)_ A library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
 
 ## Converters
 
@@ -61,6 +67,7 @@ DLx makes the following developer resources available:
 
 
 [Blog]:          https://medium.com/digital-linguistics
+[Concordance]:   https://developer.digitallinguistics.io/concordance
 [Daffodil]:      https://format.digitallinguistics.io
 [ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [GitHub]:        https://github.com/digitallinguistics/
