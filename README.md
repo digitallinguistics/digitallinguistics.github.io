@@ -32,7 +32,7 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
 ## Data Formats
 
-* ### [Daffodil (Data Format for Digital Linguistics)][Daffodil]
+* ### [DaFoDiL (Data Format for Digital Linguistics)][Daffodil]
 
     Guidelines for representing linguistic data in JSON.
 
