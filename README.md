@@ -26,13 +26,13 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
     A web app for linguists to enter, edit, and manage their linguistic data and corpora. Includes tools for managing lexicons and texts, and for tagging corpora. Works offline or online, and allows for online collaboration.
 
-* ### [Tulip (Tools for Linguistic Productivity)][Tulip]
+* ### [TuLiP (Tools for Linguistic Productivity)][TooLiP]
 
     A collection of standalone tools and utilities for accomplishing specific tasks when working with language data, such as converting between different text formats or writing systems.
 
 ## Data Formats
 
-* ### [DaFoDiL (Data Format for Digital Linguistics)][Daffodil]
+* ### [DaFoDiL (Data Format for Digital Linguistics)][DaFoDiL]
 
     Guidelines for representing linguistic data in JSON.
 
@@ -68,7 +68,7 @@ DLx makes the following developer resources available:
 
 [Blog]:          https://medium.com/digital-linguistics
 [Concordance]:   https://developer.digitallinguistics.io/concordance
-[Daffodil]:      https://format.digitallinguistics.io
+[DaFoDiL]:       https://format.digitallinguistics.io
 [ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
@@ -76,7 +76,7 @@ DLx makes the following developer resources available:
 [Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelintrc.yml
 [Styles]:        https://styles.digitallinguistics.io
 [Transliterate]: https://developer.digitallinguistics.io/transliterate
-[Tulip]:         https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
+[TooLiP]:        https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
 [Website]:       https://digitallinguistics.io/
 
 <!-- Converters -->
