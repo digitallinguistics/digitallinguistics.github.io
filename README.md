@@ -4,11 +4,17 @@ Welcome to the DLx Developers page! Here you can find documentation on DLx tools
 
 ## Contents
 
-* [About Digital Linguistics](#about-digital-linguistics)
-* [DLx on the Web](#dlx-on-the-web)
-* [Projects](#projects)
-* [Converters](#converters)
-* [Developer Resources](#developer-resources)
+<!-- TOC -->
+
+- [About Digital Linguistics](#about-digital-linguistics)
+- [DLx on the Web](#dlx-on-the-web)
+- [Web Apps & Tools](#web-apps--tools)
+- [Data Formats](#data-formats)
+- [JavaScript Libraries](#javascript-libraries)
+- [Converters](#converters)
+- [Developer Resources](#developer-resources)
+
+<!-- /TOC -->
 
 ## About Digital Linguistics
 
@@ -26,7 +32,7 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
     A web app for linguists to enter, edit, and manage their linguistic data and corpora. Includes tools for managing lexicons and texts, and for tagging corpora. Works offline or online, and allows for online collaboration.
 
-* ### [TuLiP (Tools for Linguistic Productivity)][TooLiP]
+* ### [TooLiP (Tools for Linguistic Productivity)][TooLiP]
 
     A collection of standalone tools and utilities for accomplishing specific tasks when working with language data, such as converting between different text formats or writing systems.
 
@@ -50,9 +56,13 @@ Digital Linguistics (DLx) is the science of the digital management, storage, and
 
     _(browser, Node)_ A library for transliterating text from one writing system to another. May also be used to sanitize text by removing unwanted characters.
 
+* ### [Word Aligner Library][Word-Aligner]
+
+    _(browser, Node)_ A library for vertically aligning interlinear glosses (or any multi-line format), using tabs or white space.
+
 ## Converters
 
-The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in [Tulip][Tulip].
+The following JavaScript libraries convert data between various formats. Each converter is also available as a tool in [TooLiP][TooLiP].
 
 * [Scription > DLx](scription2dlx)
 * [Tagged Text > DLx](tags2dlx)
@@ -61,11 +71,11 @@ The following JavaScript libraries convert data between various formats. Each co
 
 DLx makes the following developer resources available:
 
-* [CSS Style Library][Styles]
+* [CSS Pattern / Style Library][Styles]
 * [CSS Stylesheet][Stylelint] (Stylelint)
 * [JavaScript Stylesheet][ESLint] (ESLint)
 
-
+<!-- Links -->
 [Blog]:          https://medium.com/digital-linguistics
 [Concordance]:   https://developer.digitallinguistics.io/concordance
 [DaFoDiL]:       https://format.digitallinguistics.io
@@ -73,12 +83,11 @@ DLx makes the following developer resources available:
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
 [Scription]:     https://scription.digitallinguistics.io
+[scription2dlx]: https://developer.digitallinguistics.io/scription2dlx/
 [Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelintrc.yml
 [Styles]:        https://styles.digitallinguistics.io
 [Transliterate]: https://developer.digitallinguistics.io/transliterate
+[tags2dlx]:      https://developer.digitallinguistics.io/tags2dlx/
 [TooLiP]:        https://github.com/digitallinguistics/tools/blob/master/.github/CONTRIBUTING.md
 [Website]:       https://digitallinguistics.io/
-
-<!-- Converters -->
-[scription2dlx]: https://developer.digitallinguistics.io/scription2dlx/
-[tags2dlx]:      https://developer.digitallinguistics.io/tags2dlx/
+[Word-Aligner]:  https://developer.digitallinguistics.io/word-aligner/

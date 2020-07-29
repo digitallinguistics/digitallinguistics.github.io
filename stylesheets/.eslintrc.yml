@@ -9,6 +9,7 @@ env:
   es6:     true
   jasmine: false
   node:    true
+reportUnusedDisableDirectives: true
 rules:
   id-blacklist:
   - error
