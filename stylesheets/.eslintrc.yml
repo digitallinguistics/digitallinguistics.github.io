@@ -1,17 +1,13 @@
-# ESLint v7.3.1
+# ESLint v7.23.0
 parserOptions:
-  ecmaVersion: 11
+  ecmaVersion: 12
   ecmaFeatures:
     impliedStrict: true
   sourceType: module
 env:
-  browser: true
-  es6:     true
-  jasmine: false
-  node:    true
 reportUnusedDisableDirectives: true
 rules:
-  id-blacklist:
+  id-denylist:
   - error
   no-restricted-exports:
   - error
@@ -157,9 +153,7 @@ rules:
   - warn
   - always
   - exceptAfterSingleLine: true
-  max-classes-per-file:
-  - warn
-  - 2
+  max-classes-per-file: off
   max-depth: warn
   max-len:
   - warn
@@ -265,7 +259,7 @@ rules:
   no-implicit-globals: error
   no-implied-eval: error
   no-import-assign: error
-  no-inline-comments: 'off'
+  no-inline-comments: off
   no-inner-declarations:
   - error
   - functions
@@ -279,7 +273,7 @@ rules:
     skipTemplates: false
   no-iterator: error
   no-label-var: error
-  no-labels: 'off'
+  no-labels: off
   no-lone-blocks: error
   no-lonely-if: warn
   no-loop-func: error
@@ -287,13 +281,11 @@ rules:
   no-magic-numbers:
   - warn
   - ignoreArrayIndexes: true
+    ignoreDefaultValues: true
     ignore:
     - -1
     - 0
     - 1
-    - 2
-    - 3
-    - 10
     - 60
     - 200
     - 201
@@ -316,8 +308,6 @@ rules:
     - 449
     - 500
     - 503
-    - 1000
-    - 3000
   no-misleading-character-class: error
   no-mixed-operators:
   - warn
@@ -333,6 +323,7 @@ rules:
       IfStatement: true
       ImportDeclaration: true
       ImportSpecifier: true
+      SwitchCase: true
       VariableDeclaration: true
       VariableDeclarator: true
   no-multi-str: error
@@ -346,6 +337,7 @@ rules:
   no-new-object: warn
   no-new-symbol: error
   no-new-wrappers: warn
+  no-nonoctal-decimal-escape: error
   no-obj-calls: error
   no-octal: error
   no-octal-escape: error
@@ -407,6 +399,7 @@ rules:
   no-unreachable-loop: error
   no-unsafe-finally: warn
   no-unsafe-negation: error
+  no-unsafe-optional-chaining: error
   no-unused-expressions: error
   no-unused-labels: error
   no-unused-vars: error
@@ -520,7 +513,8 @@ rules:
   - last
   sort-imports:
   - warn
-  - ignoreCase: true
+  - allowSeparatedGroups: true
+    ignoreCase: true
     memberSyntaxSortOrder:
     - none
     - all

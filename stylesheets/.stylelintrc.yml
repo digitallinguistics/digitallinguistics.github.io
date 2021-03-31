@@ -1,12 +1,12 @@
-# Stylelint 9.10.1
+# Stylelint 13.12.0
 rules:
 
-  # blacklists / whitelists / regexp
+  # allow lists / regexp
   custom-media-pattern: null
   custom-property-pattern: null
   selector-class-pattern: null
   selector-id-pattern: null
-  unit-blacklist:
+  unit-disallowed-list:
     -
       - cm
       - in
@@ -47,6 +47,7 @@ rules:
   block-no-empty:
     - true
     - severity: warning
+  color-function-notation: modern
   color-hex-case: upper
   color-hex-length: short
   color-named:
@@ -59,6 +60,7 @@ rules:
   custom-property-empty-line-before: null
   declaration-bang-space-after: never
   declaration-bang-space-before: always
+  declaration-block-no-duplicate-custom-properties: true
   declaration-block-no-duplicate-properties:
     - true
     - ignore:
@@ -123,8 +125,9 @@ rules:
   media-query-list-comma-newline-before: never-multi-line
   media-query-list-comma-space-after: always-single-line
   media-query-list-comma-space-before: never
+  named-grid-areas-no-invalid: true
   no-descending-specificity:
-    - true
+    - ignore: ["selectors-within-list"]
     - severity: warning
   no-duplicate-at-import-rules: true
   no-duplicate-selectors: true
@@ -202,6 +205,7 @@ rules:
     - single
     - avoidEscape: true
   time-min-milliseconds: 100
+  unicode-bom: never
   unit-case: lower
   unit-no-unknown: true
   value-keyword-case:
