@@ -86,7 +86,7 @@ DLx makes the following developer resources available:
 [ESLint]:        https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.eslintrc.yml
 [GitHub]:        https://github.com/digitallinguistics/
 [Lotus]:         https://developer.digitallinguistics.io/app
-[Oxalis]:        https://oxalis.digitallinguistics.io
+[Oxalis]:        https://developer.digitallinguistics.io/data-explorer
 [Scription]:     https://scription.digitallinguistics.io
 [scription2dlx]: https://developer.digitallinguistics.io/scription2dlx/
 [Stylelint]:     https://github.com/digitallinguistics/digitallinguistics.github.io/blob/master/stylesheets/.stylelintrc.yml
